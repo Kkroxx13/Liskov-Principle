@@ -1,0 +1,14 @@
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.exe
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.deps.json
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.runtimeconfig.json
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.runtimeconfig.dev.json
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.dll
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\bin\Debug\netcoreapp3.1\LiscovPrinciple.pdb
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.csproj.AssemblyReference.cache
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.AssemblyInfoInputs.cache
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.AssemblyInfo.cs
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.dll
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.pdb
+C:\Users\kkancha\source\repos\LiscovPrinciple\LiscovPrinciple\obj\Debug\netcoreapp3.1\LiscovPrinciple.genruntimeconfig.cache
